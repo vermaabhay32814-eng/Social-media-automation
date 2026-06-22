@@ -1,0 +1,16 @@
+.cta-section {
+    background: #ffffff;
+}
+
+.cta-container {
+    background: linear-gradient(145deg, #fff5f5 0%, #fef2f2 100%);
+    border: 1.5px solid rgba(239, 68, 68, 0.12);
+}
+
+.cta-glow-top {
+    background: radial-gradient(circle, rgba(239, 68, 68, 0.1) 0%, transparent 70%);
+}
+
+.cta-glow-bottom {
+    background: radial-gradient(circle, rgba(239, 68, 68, 0.06) 0%, transparent 70%);
+}

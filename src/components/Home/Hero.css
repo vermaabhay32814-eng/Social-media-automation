@@ -1,0 +1,16 @@
+.hero-browser-chrome {
+    background: #f0f0f0;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+}
+
+.hero-mock-content {
+    background: #f7f7f7;
+}
+
+.hero-stat-card {
+    border: 1px solid rgba(0, 0, 0, 0.06);
+}
+
+.hero-activity-list {
+    border: 1px solid rgba(0, 0, 0, 0.06);
+}
